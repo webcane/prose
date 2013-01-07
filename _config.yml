@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: ""
+baseurl: "prose"
 exclude:
 - .gitignore
 - README.md
@@ -12,9 +12,9 @@ prose:
     _posts/articles: |
       published: false
       layout: article
-      title: Your Post Title
-      abstract: Short summary of your article.
-      author_twitter: johndoe
-      author: John Doe
+      title: Title
+      abstract: Description
+      author_twitter: webcane
+      author: webcane
       categories:
       - articles
