@@ -1,7 +1,8 @@
 auto: true
 server: true
 permalink: none
-baseurl: "prose"
+baseurl: ""
+baseurl2: "prose"
 exclude:
 - .gitignore
 - README.md
