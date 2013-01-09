@@ -2,7 +2,6 @@ auto: true
 server: true
 permalink: none
 baseurl: ""
-baseurl2: "prose"
 root_dir: "prose"
 exclude:
 - .gitignore
